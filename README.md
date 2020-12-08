@@ -1,4 +1,4 @@
-#### Hi! I'm Jesús :octocat: 
+#### Hi! I'm Jesús 
 
 :mortar_board: I am a Ph.D. student at the department of physics, University of Gothenburg, Sweden. 
 
